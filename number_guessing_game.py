@@ -7,7 +7,7 @@ def number_guessing_game():
     #generate any number between 1 and 100
     number_tobe_guessed = random.randint(1,100)
 
-    #no.of attempts to guess the number correctly
+    #no.of attempts to guess the number correctly { come on increase the number of attempts and try it if you are here }.
     attempts = 6
 
     print("welcome to number guessing game")
